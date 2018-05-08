@@ -4,4 +4,9 @@ h1 {
 h2 {
 	color: red;
 }
+li {
+	color: blue;
+	font-style: italic;
+	padding: 5px 0px;
+}
 
